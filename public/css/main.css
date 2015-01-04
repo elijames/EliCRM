@@ -1,0 +1,50 @@
+body {
+    padding-top: 40px;
+}
+
+.form-signin {
+    width: 400px;
+    margin: 0 auto;
+    padding-top: 10%;
+}
+
+.navbar-fixed-top{
+    background-color: #333;
+}
+.nav li{
+    display: inline-block;
+}
+.nav li a{
+    color: #0464bb;
+}
+
+.nav{
+    color: #eee;
+}
+
+.nav h2{
+    display: inline-block;
+    color: #EEEEEE;
+    margin-right: 25%;
+}
+
+.input-block-level{
+    width: 100%;
+    display: block;
+    margin-bottom: 2%;
+}
+
+.alert{
+    padding-top: 5%;
+    background-color: #550000;
+    color: #eee;
+}
+.wrapper{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
+.row{
+    margin-bottom: 2%;
+}
